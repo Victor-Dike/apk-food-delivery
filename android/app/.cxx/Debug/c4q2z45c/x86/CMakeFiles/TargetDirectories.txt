@@ -1,0 +1,2 @@
+C:/Users/HP/food_delivery_app/android/app/.cxx/Debug/c4q2z45c/x86/CMakeFiles/edit_cache.dir
+C:/Users/HP/food_delivery_app/android/app/.cxx/Debug/c4q2z45c/x86/CMakeFiles/rebuild_cache.dir
